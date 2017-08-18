@@ -1,2 +1,2 @@
 # hello-world
-The proverbial Hello World
+Baby fresh noob learing python v3 and java and eventually C#.net
